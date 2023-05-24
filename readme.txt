@@ -1,1 +1,1 @@
-This is a git repo&simple
+Creating a new branch is quick and simple.
